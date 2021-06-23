@@ -13,13 +13,15 @@ This CLI team profile generator is a light weight application that takes user in
   
 ## Screenshots
 
-![App Screenshot](\Team-Profile-Generator\images\screenshot1.JPG)
+![screenshot1](https://user-images.githubusercontent.com/80405589/123015875-62709580-d397-11eb-90ab-0bb11cfa8eaa.JPG)
 
-![App Screenshot](\Team-Profile-Generator\images\screenshot2.JPG)
+![screenshot2](https://user-images.githubusercontent.com/80405589/123015879-64d2ef80-d397-11eb-9590-ef316cb60c61.JPG)
+
   
 ## Demo
 
-![Youtube demo video]()
+![Deployed Gif](https://user-images.githubusercontent.com/80405589/123016206-14a85d00-d398-11eb-83c5-978fa424ff31.gif)
+
   
 ## Installation 
 
